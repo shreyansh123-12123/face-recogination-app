@@ -1,0 +1,8 @@
+body{
+    background:linear-gradient(rgb(231, 221, 79),rgb(173, 230, 195),rgb(255, 224, 228));
+    font-family: 'Dancing Script', cursive;
+}
+.heading{
+    width:80%;
+    font-size: 25px;
+}
